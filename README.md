@@ -39,12 +39,19 @@ XAIPath addresses this by pairing GraphSAGE link prediction with a post-hoc expl
 
 ## Project Structure
 ├── notebooks/          # Jupyter notebooks (numbered by pipeline stage)
+
 ├── src/                # Python scripts for training, evaluation, explainability
+
 ├── data/               # Data loading instructions (DRKG downloaded separately)
+
 ├── results/            # Model outputs, evaluation metrics, candidate lists
+
 ├── app/                # Interactive demo application
+
 ├── embedding_analysis/ # DRKG pretrained embedding analysis (from original repo)
+
 ├── drkg_with_dgl/      # DGL graph loading (from original repo)
+
 └── requirements.txt    # Python dependencies
 
 ---
