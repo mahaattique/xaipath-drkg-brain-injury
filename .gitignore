@@ -1,1 +1,9 @@
 .idea
+data/drkg.tsv
+data/drkg.tar.gz
+data/embed/DRKG_TransE_l2_entity.npy
+data/embed/DRKG_TransE_l2_relation.npy
+data/embed/mol_contextpred.npy
+data/embed/mol_edgepred.npy
+data/embed/mol_infomax.npy
+data/embed/mol_masking.npy
