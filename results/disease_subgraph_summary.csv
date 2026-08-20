@@ -1,0 +1,8 @@
+disease,mesh_id,total_triplets,connected_compounds,connected_genes
+Stroke,Disease::MESH:D020521,442,259,176
+Cerebral Infarction,Disease::MESH:D002544,273,134,138
+Intracranial Hemorrhages,Disease::MESH:D020300,21,14,7
+ICH Hypertensive,Disease::MESH:D020520,11,7,4
+Cerebral Hemorrhage,Disease::MESH:D002538,7,3,4
+Brain Injuries,Disease::MESH:D001930,290,142,147
+Hemorrhage,Disease::MESH:D006470,396,272,117
