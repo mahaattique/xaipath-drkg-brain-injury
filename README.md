@@ -27,7 +27,9 @@ XAIPath addresses this by pairing GraphSAGE link prediction with a post-hoc expl
 ## Methods
 
 - **Knowledge graph:** DRKG (97,238 entities, 5.87M triplets, 107 relation types across DrugBank, Hetionet, GNBR, STRING, IntAct, DGIdb)
-- **Primary model:** GraphSAGE (Hamilton et al., 2017) - trained from scratch on DRKG treatment edges
+- **Primary model:** GraphSAGE (Hamilton et al., 2017) - two configurations tested:
+  - v1: trained on treatment edges, softplus loss, 5 negative samples (final loss 0.626)
+  - v2: trained on full graph, margin ranking loss, 64 negative samples (final loss 0.052)
 - **Baselines:** TransE pretrained (Bordes et al., 2013), DistMult (Yang et al., 2015), ComplEx (Trouillon et al., 2016)
 - **Evaluation:** MRR and Hits@1/3/10 on filtered compound-disease link prediction
 - **Validation:** Negative control drug-disease pairs, structured literature corroboration
@@ -99,7 +101,7 @@ export PYTHONPATH=/projectnb/chenggrp/Maha/drkg_env/lib/python3.10/site-packages
 - [x] Disease subgraph network analysis
 - [x] TransE baseline scoring, top 100 candidates generated and named
 - [x] DistMult and ComplEx trained from scratch
-- [x] GraphSAGE trained from scratch (5 epochs, final loss 0.626)
+- [x] GraphSAGE trained from scratch, two configurations (v1 and v2), see Notebook 07
 - [x] Benchmark evaluation, MRR/Hits@k across all four models
 - [x] Negative control validation
 - [ ] Explainability layer (MinHash + K-means path clustering) -> future work

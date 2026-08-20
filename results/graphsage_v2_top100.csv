@@ -1,0 +1,101 @@
+rank,drug,score,drug_name
+1,Compound::DB03717,15.9714985,"3-HYDROXY-4-(3,4,5-TRIHYDROXY-TETRAHYDRO-PYRAN-2-YLOXY)-PIPERIDIN-2-ONE"
+2,Compound::DB05421,15.119494,CP-122721
+3,Compound::DB01597,14.888819,Cilastatin
+4,Compound::DB07081,14.745038,"(2r)-4-[(8r)-8-Methyl-2-(Trifluoromethyl)-5,6-Dihydro[1,2,4]triazolo[1,5-A]pyrazin-7(8h)-Yl]-4-Oxo-1-(2,4,5-Trifluorophenyl)butan-2-Amine"
+5,Compound::DB13724,14.663816,NIFURATEL
+6,Compound::DB06439,14.642166,unknown
+7,Compound::DB04257,14.544352,palmitoleic acid
+8,Compound::DB04038,14.482705,ERGOSTEROL
+9,Compound::DB07178,14.440119,5-PENTYL-2-PHENOXYPHENOL
+10,Compound::DB03602,14.411073,S-Benzylglutathione
+11,Compound::DB07327,14.389717,R-95845
+12,Compound::DB13290,14.363163,Olaflur
+13,Compound::DB04609,14.222946,INHIBITOR Q8467 OF DUPONT MERCK
+14,Compound::DB08017,14.221833,100241-46-1
+15,Compound::DB08446,14.220129,CHEMBL456649
+16,Compound::DB08520,14.202518,"(21S)-1AZA-4,4-DIMETHYL-6,19-DIOXA-2,3,7,20-TETRAOXOBICYCLO[19.4.0] PENTACOSANE"
+17,Compound::DB12924,14.177691,Ozenoxacin
+18,Compound::DB13672,14.063658,dimethylaminopropionylphenothiazine
+19,Compound::DB08843,14.047656,Pmedap
+20,Compound::DB03530,14.025829,DB03530
+21,Compound::DB00638,13.974164,RefChem:976867
+22,Compound::DB02702,13.900788,XV638
+23,Compound::DB13854,13.88795,gamma-Linolenic acid
+24,Compound::DB07570,13.871965,3-CYCLOHEXYL-1-(2-MORPHOLIN-4-YL-2-OXOETHYL)-2-PHENYL-1H-INDOLE-6-CARBOXYLIC ACID
+25,Compound::DB12374,13.856429,unknown
+26,Compound::DB13483,13.842857,unknown
+27,Compound::DB13298,13.782067,unknown
+28,Compound::DB13291,13.778282,Cloridarol
+29,Compound::DB05461,13.752042,FR0M0E7AZM
+30,Compound::DB07015,13.721417,"(3r,4r)-4-(Pyrrolidin-1-Ylcarbonyl)-1-(Quinoxalin-2-Ylcarbonyl)pyrrolidin-3-Amine"
+31,Compound::DB08328,13.717703,Pantothenyl-Aminoethanol-11-Pivalic Acid
+32,Compound::DB07133,13.701061,D-Phenylalanyl-N-(3-Methylbenzyl)-L-Prolinamide
+33,Compound::DB04862,13.680014,Merimepodib
+34,Compound::DB13477,13.668541,unknown
+35,Compound::DB13967,13.622175,Patent Blue
+36,Compound::DB09138,13.614211,Technetium (99Mtc) Medronic Acid
+37,Compound::DB01993,13.611597,N-(5'-PHOSPHOPYRIDOXYL)-D-ALANINE
+38,Compound::DB04697,13.601598,TRANS-4-(GUANIDINOMETHYL)-CYCLOHEXANE-L-YL-D-3-CYCLOHEXYLALANYL-L-AZETIDINE-2-YL-D-TYROSINYL-L-HOMOARGININAMIDE
+39,Compound::DB04037,13.540064,"N,N-BIS(4-CHLOROBENZYL)-1H-1,2,3,4-TETRAAZOL-5-AMINE"
+40,Compound::DB13247,13.510241,pramiracetam
+41,Compound::DB02421,13.479681,URIDINE-5'-DIPHOSPHATE-MANNOSE
+42,Compound::DB13296,13.464469,Propamidine
+43,Compound::DB13825,13.432319,Fedrilate
+44,Compound::DB13611,13.430809,Chlormidazole
+45,Compound::DB05888,13.425701,unknown
+46,Compound::DB06525,13.413145,GANSTIGMINE
+47,Compound::DB07113,13.412791,"(2S)-6-(2,4-DIAMINO-6-ETHYLPYRIMIDIN-5-YL)-2-(3,5-DIFLUOROPHENYL)-4-(3-METHOXYPROPYL)-2H-1,4-BENZOXAZIN-3(4H)-ONE"
+48,Compound::DB08203,13.40234,"7-[2-METHOXY-1-(METHOXYMETHYL)ETHYL]-7H-PYRROLO[3,2-F] QUINAZOLINE-1,3-DIAMINE"
+49,Compound::DB03178,13.396794,"guanosine-2',3'-cyclophosphorothioate"
+50,Compound::DB09144,13.386599,Uridine triacetate
+51,Compound::DB05791,13.383789,Perflubron
+52,Compound::DB13545,13.378043,Isobromindione
+53,Compound::DB07500,13.374814,(2e)-1-[2-Hydroxy-4-Methoxy-5-(3-Methylbut-2-En-1-Yl)phenyl]-3-(4-Hydroxyphenyl)prop-2-En-1-One
+54,Compound::DB08662,13.372662,3-[1-(4-bromo-phenyl)-2-methyl-propyl]-4-hydroxy-chromen-2-one
+55,Compound::DB01935,13.360912,3-{[(1R)-1-BENZYL-2-SULFANYLETHYL]AMINO}-3-OXOPROPANOIC ACID
+56,Compound::DB08188,13.357003,Emivirine
+57,Compound::DB08459,13.355614,"3-Chloro-5-[2-Chloro-5-(1h-Pyrazolo[3,4-B]pyridin-3-Ylmethoxy)phenoxy]benzonitrile"
+58,Compound::DB06219,13.3545885,unknown
+59,Compound::DB06461,13.344772,Squalamine
+60,Compound::DB13763,13.328726,Aurotioprol
+61,Compound::DB04045,13.319181,(R)-methylmalonyl-CoA
+62,Compound::DB07550,13.315294,"2-(6-CHLORO-3-{[2,2-DIFLUORO-2-(1-OXIDO-2-PYRIDINYL)ETHYL]AMINO}-2-OXO-1(2H)-PYRAZINYL)-N-[(2-FLUOROPHENYL)METHYL]ACETAMIDE"
+63,Compound::DB06869,13.308822,1-[2-AMINO-2-CYCLOHEXYL-ACETYL]-PYRROLIDINE-3-CARBOXYLIC ACID 5-CHLORO-2-(2-ETHYLCARBAMOYL-ETHOXY)-BENZYLAMIDE
+64,Compound::DB07667,13.298414,"2-((3',5'-DIMETHYL-4'-HYDROXYPHENYL)AZO)BENZOIC ACID"
+65,Compound::DB11607,13.284769,unknown
+66,Compound::DB09004,13.26942,Clobutinol
+67,Compound::DB04126,13.261492,n-[1-hydroxycarboxyethyl-carbonyl]leucylamino-2-methyl-butane
+68,Compound::DB06210,13.248739,Eltrombopag
+69,Compound::DB06955,13.246513,"3,4-bis(7-chloro-1H-indol-3-yl)-1H-pyrrole-2,5-dicarboxylic acid"
+70,Compound::DB06580,13.240003,Celgosivir
+71,Compound::DB08956,13.233683,Hydroxydione
+72,Compound::DB04155,13.232993,2-FLUORO-2-DEOXY-BETA-D-GALACTOPYRANOSYL-BETA-D-GLUCOPYRANOSE
+73,Compound::DB12407,13.229951,Iobitridol
+74,Compound::DB04430,13.226496,3-(4-PHENYLAMINO-PHENYLAMINO)-2-(1H-TETRAZOL-5-YL)-ACRYLONITRILE
+75,Compound::DB05203,13.226419,unknown
+76,Compound::DB13570,13.225152,unknown
+77,Compound::DB07935,13.197001,"5-[(5-fluoro-3-methyl-1H-indazol-4-yl)oxy]benzene-1,3-dicarbonitrile"
+78,Compound::DB08556,13.195683,"5'-ACETYL-4-{[(2,4-DIMETHYLPHENYL)SULFONYL]AMINO}-2,2'-BITHIOPHENE-5-CARBOXYLIC ACID"
+79,Compound::DB05382,13.194664,iodine
+80,Compound::DB04116,13.194277,allolactose
+81,Compound::DB07466,13.183372,(1r)-2-phenylacetamido-2-(3-carboxyphenyl)ethyl boronic acid
+82,Compound::DB14637,13.170868,fluprednisolone acetate
+83,Compound::DB02067,13.152168,TRIGLU-5-FORMYL-TETRAHYDROFOLATE
+84,Compound::DB09366,13.128915,propyliodone
+85,Compound::DB08713,13.125263,"2,6-dimethyl-1-(3-[3-methyl-5-isoxazolyl]-propanyl)-4-[2n-methyl-2h-tetrazol-5-yl]-phenol"
+86,Compound::DB13412,13.107523,unknown
+87,Compound::DB04740,13.090509,MOX
+88,Compound::DB13818,13.090367,Noviform
+89,Compound::DB13714,13.073456,Xibornol
+90,Compound::DB13753,13.066897,Cetiedil
+91,Compound::DB04822,13.066895,Oxeladin
+92,Compound::DB02841,13.064512,[(2-ETHOXY-1-NAPHTHOYL)AMINO]METHYLBORONIC ACID
+93,Compound::DB01574,13.061794,Attapulgus clay
+94,Compound::DB13132,13.061155,artemisinin
+95,Compound::DB13260,13.053909,unknown
+96,Compound::DB03330,13.03417,(2S)-2-amino-5-[[(2R)-1-(carboxymethylamino)-3-[(R)-hydroxy-(N-hydroxy-4-iodoanilino)methyl]sulfanyl-1-oxopropan-2-yl]amino]-5-oxopentanoic acid
+97,Compound::DB13272,13.025639,Meladrazine
+98,Compound::DB13444,13.013881,Ioxitalamic acid
+99,Compound::DB07505,13.010584,"N-({(3R,4R)-4-[(benzyloxy)methyl]pyrrolidin-3-yl}methyl)-N-(2-methylpropyl)benzenesulfonamide"
+100,Compound::DB04328,13.005457,shikimate-3-phosphate

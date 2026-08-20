@@ -13,3 +13,5 @@ results/complex_model.pt
 train/drkg_train.tsv
 train/drkg_valid.tsv
 train/drkg_test.tsv
+results/graphsage_v1_embeddings.pt 
+results/graphsage_v2_embeddings.pt
