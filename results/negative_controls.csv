@@ -1,0 +1,6 @@
+drug,drugbank_id,category,mean_score
+Aspirin,Compound::DB00945,known positive,-1.5437503366598062
+Warfarin,Compound::DB00682,known positive,-1.7608038713889462
+Mycophenolate,Compound::DB00688,negative control,-2.0596394815615247
+Itraconazole,Compound::DB01167,negative control,-2.2955707354204997
+Isoniazid,Compound::DB00951,negative control,-2.315833847437586
