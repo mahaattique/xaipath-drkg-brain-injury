@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/share/pkg.8/python3/3.10.12/install/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/share/pkg.8/python3/3.10.12/install/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/projectnb/chenggrp/Maha/drkg_env/lib/python3.10/site-packages/dglke/train.py", line 37, in <module>
+    from .train_pytorch import load_model
+  File "/projectnb/chenggrp/Maha/drkg_env/lib/python3.10/site-packages/dglke/train_pytorch.py", line 39, in <module>
+    from dgl.contrib import KVClient
+ModuleNotFoundError: No module named 'dgl.contrib'
