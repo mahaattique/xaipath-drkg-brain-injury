@@ -7,3 +7,9 @@ data/embed/mol_contextpred.npy
 data/embed/mol_edgepred.npy
 data/embed/mol_infomax.npy
 data/embed/mol_masking.npy
+# Large model and training files
+results/distmult_model.pt
+results/complex_model.pt
+train/drkg_train.tsv
+train/drkg_valid.tsv
+train/drkg_test.tsv
